@@ -4,7 +4,6 @@ This repository contains a Python implementation of a real-time facial emotion r
 
 ## Prerequisites
 **Before running the code, ensure you have the following installed**:
-
 - Python 3.x
 - OpenCV
 - TensorFlow or Keras
@@ -15,16 +14,14 @@ This repository contains a Python implementation of a real-time facial emotion r
 ## Installation
 
 Bash
-$ **git clone https://github.com/Ansh420/facial-emotion-recognition**
-Use code with caution.
-
+ **git clone https://github.com/Ansh420/facial-emotion-recognition**
+ 
 ## Install dependencies:
-Bash
-$ pip install opencv-python tensorflow numpy matplotlib
+
+**pip install opencv-python tensorflow numpy matplotlib**
 
 
 ## Prepare a dataset:
-
 - Collect a dataset of images or videos containing faces with various emotions (e.g., happy, sad, angry, neutral).
 - Label each image or video with the corresponding emotion.
 - Organize the dataset into appropriate directories.
