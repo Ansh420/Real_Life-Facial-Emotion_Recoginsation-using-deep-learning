@@ -45,6 +45,9 @@ $ pip install opencv-python tensorflow numpy matplotlib
 - The script will detect faces in the video and predict their emotions in real time.
   
 ## Configuration
+
 **Model architecture**: The model.py file defines the CNN architecture. You can customize it to suit your needs.
+
 **Training parameters**: Adjust the learning rate, batch size, epochs, and other parameters in the **train.py** script.
+
 **Dataset paths**: Update the dataset paths in the **train.py** and **test.py** scripts.
