@@ -24,11 +24,11 @@ Bash
 ## Prepare a dataset:
 - Collect a dataset of images or videos containing faces with various emotions (e.g., happy, sad, angry, neutral).
 - Label each image or video with the corresponding emotion.
-- Organize the dataset into appropriate directories.
+- Organize the dataset into **appropriate** directories.
 
 ## Train the model:
 
-- Modify the**train.py** script to load your dataset and configure the training parameters.
+- Modify the **train.py** script to load your dataset and configure the training parameters.
 - Run the script to train the CNN model on your dataset.
 
 ## Test the model:
