@@ -28,18 +28,14 @@ Bash
 
 ## Train the model:
 
-- Modify the train.py script to load your dataset and configure the training parameters.
+- Modify the**train.py** script to load your dataset and configure the training parameters.
 - Run the script to train the CNN model on your dataset.
 
 ## Test the model:
 
-- Use the test.py script to evaluate the model's performance on a separate test dataset.
-- The script will output accuracy, precision, recall, and F1-score metrics.
+- Use the **test.py** script to evaluate the model's performance on a separate test dataset.
+- The script will output **accuracy, precision, recall, and F1-score metrics**.
 
-## Real-time recognition:
-
-- Run the realtime.py script to capture video from your webcam or load a video file.
-- The script will detect faces in the video and predict their emotions in real time.
   
 ## Configuration
 
