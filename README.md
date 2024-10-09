@@ -1,3 +1,6 @@
+![emotion-recognition-using-Azure-Cognitive](https://github.com/user-attachments/assets/f91f0ef6-d4f1-46fc-9e20-cbcefa9b3ab6)
+
+
 # Introduction
 
 This repository contains a Python implementation of a real-time facial emotion recognition system using deep learning. The system leverages a pre-trained convolutional neural network **(CNN)** model to accurately detect and classify facial emotions from live video feeds or images.
