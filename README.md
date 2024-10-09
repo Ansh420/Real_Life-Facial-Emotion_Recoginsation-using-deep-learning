@@ -1,4 +1,3 @@
-![1_pNPrAb7beg5z-ILNbF8RKg](https://github.com/user-attachments/assets/c9169572-cbec-48b0-ba34-5d60579c5564)
 # Introduction
 
 This repository contains a Python implementation of a real-time facial emotion recognition system using deep learning. The system leverages a pre-trained convolutional neural network **(CNN)** model to accurately detect and classify facial emotions from live video feeds or images.
