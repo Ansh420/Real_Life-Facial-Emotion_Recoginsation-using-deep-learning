@@ -42,7 +42,7 @@ Bash
   
 ## Configuration
 
-**Model architecture**: The model.py file defines the CNN architecture. You can customize it to suit your needs.
+**Model architecture**: The **model.py** file defines the CNN architecture. You can customize it to suit your needs.
 
 **Training parameters**: Adjust the learning rate, batch size, epochs, and other parameters in the **train.py** script.
 
