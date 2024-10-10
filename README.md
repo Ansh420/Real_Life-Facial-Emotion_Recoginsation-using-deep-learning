@@ -21,7 +21,11 @@ Bash
  
 ## Install dependencies:
 
-**pip install opencv-python tensorflow numpy matplotlib**
+- opencv
+- python
+- tensorflow
+- numpy
+- matplotlib
 
 
 ## Prepare a dataset:
