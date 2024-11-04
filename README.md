@@ -36,7 +36,7 @@ Bash
 ## Train the model:
 
 - Modify the **train.py** script to load your dataset and configure the training parameters.
-- Run the script to train the CNN model on your dataset.
+- Run the script to **train** the CNN model on your dataset.
 
 ## Test the model:
 
