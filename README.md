@@ -12,8 +12,7 @@ This repository contains a Python implementation of a real-time facial emotion r
 - TensorFlow or Keras
 - NumPy
 - Matplotlib (for visualization)
-
-  
+ 
 ## Installation
 
 Bash
@@ -30,7 +29,7 @@ Bash
 ## Prepare a dataset:
 - Collect a dataset of images or videos containing faces with various emotions (e.g., happy, sad, angry, neutral).
 - Label each image or video with the corresponding emotion.
-- Organize the dataset into **appropriate** directories.
+- Organize the dataset into **appropriate** directories.   
 
 ## Train the model:
 
@@ -42,7 +41,6 @@ Bash
 - Use the **test.py** script to evaluate the model's performance on a separate test dataset.
 - The script will output **accuracy, precision, recall, and F1-score metrics**.
 
-  
 ## Configuration
 
 **Model architecture**: The **model.py** file defines the CNN architecture. You can customize it to suit your needs.
