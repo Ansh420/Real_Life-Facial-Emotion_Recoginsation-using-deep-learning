@@ -27,7 +27,6 @@ Bash
 - numpy.
 - matplotlib.
 
-
 ## Prepare a dataset:
 - Collect a dataset of images or videos containing faces with various emotions (e.g., happy, sad, angry, neutral).
 - Label each image or video with the corresponding emotion.
